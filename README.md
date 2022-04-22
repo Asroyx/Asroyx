@@ -1,5 +1,5 @@
 <div align="center">
-<img height=375 src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" alt="asroyx" />
+<img width="700" height="393" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" alt="asroyx" />
 </div>
 <h1 align="center">Hi 👋, I'm Asil</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
