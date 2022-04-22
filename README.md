@@ -17,15 +17,14 @@
  📫 How to reach me **asilayazoglu02@gmail.com**
 </div>
 
-
-
 <div align="center">
 
-[![](https://raw.githubusercontent.com/Asroyx/Asroyx/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Asroyx/Asroyx/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</div>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <div align="center">
 
-[![](https://raw.githubusercontent.com/Asroyx/Asroyx/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Asroyx/Asroyx/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Asroyx/Asroyx/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=asroyx&theme=react-dark" alt="asroyx" />
