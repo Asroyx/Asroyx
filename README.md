@@ -11,9 +11,9 @@
 
 <div align="center">
   
- 🔭 I’m currently working on **Frontend**
+ 🔭 I’m currently working on **Backend**
 
- 🌱 I’m currently learning **JavaScript and React**
+ 🌱 I’m currently learning **C++**
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
