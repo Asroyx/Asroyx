@@ -1,7 +1,7 @@
 <div align="center">
 <img width="700" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" alt="asroyx" />
 </div>
-<h1 align="center">Hi 👋, I'm Asil</h1>
+<h1 align="center">Hi, I'm Asil</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 <div align="center">
   
- 🔭 I’m currently working on **Backend**
+ 🔭 I’m currently working on **Frontend**
 
  🌱 I’m currently learning **C++**
 
@@ -30,7 +30,6 @@
 [![](https://raw.githubusercontent.com/Asroyx/Asroyx/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=asroyx&theme=react-dark" alt="asroyx" />
 
 
 
