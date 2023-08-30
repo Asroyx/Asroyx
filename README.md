@@ -13,7 +13,7 @@
   
  🔭 I’m currently working on **Frontend**
 
- 🌱 I’m currently learning **C++**
+ 🌱 I’m currently learning **HTML/CSS/JS**
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
