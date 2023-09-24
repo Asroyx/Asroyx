@@ -6,7 +6,7 @@
 
 <div align="center">
   
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asroyx&theme=dracula" alt="asroyx" /></a> </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asroyx&theme=github_dark)
 </div>
 
 <div align="center">
@@ -23,10 +23,9 @@
 <div align="center">
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asroyx&theme=github_dark)
 <div align="center">
-
+  
 [![](https://raw.githubusercontent.com/Asroyx/Asroyx/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
@@ -40,7 +39,9 @@
 
 <br>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asroyx&theme=blueberry_duo" alt="asroyx" />
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asroyx&theme=dark&hide_border=true&border_radius=20&card_width=700&currStreakLabel=FFC46D&background=0D1117)](https://git.io/streak-stats)
+
 </div>
 
 
