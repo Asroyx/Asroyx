@@ -1,5 +1,5 @@
 <div align="center">
-<img width="700" src="https://miro.medium.com/v2/resize:fit:1100/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="asroyx" />
+<img width="900" src="1654965403966.jpg" alt="asroyx" />
 </div>
 <h1 align="center">Hi, I'm Asil</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
