@@ -1,5 +1,5 @@
 <div align="center">
-<img width="800" src="ASROYX.jpg" alt="asroyx" />
+<img width="800" src="Asroyx.png" alt="asroyx" />
 </div>
 <h1 align="center">Hi, I'm Asil</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
